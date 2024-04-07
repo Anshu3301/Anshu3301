@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Anshu3301
--  I’m interested in FrontEnd Development & DSA.
+👋 Hi, I’m Anshu Sain.
+ Exploring FrontEnd Development & DSA. Currently learning React.js...
