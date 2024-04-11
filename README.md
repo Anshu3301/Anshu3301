@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on improving my **DSA & FrontEnd skills.**
 - 🌱 I’m currently learning **React, DSA.**
-- 📫 How to reach me sainanshu40@gmail.com , https://www.linkedin.com/in/anshu-sain-5a942b256/ , https://twitter.com/anshu_sain04
+- 📫 Reach me: sainanshu40@gmail.com , https://www.linkedin.com/in/anshu-sain-5a942b256/ , https://twitter.com/anshu_sain04
 
 <h3 align="left">Connect with me : 
 <span>
