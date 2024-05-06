@@ -1,6 +1,6 @@
 <h3>Hello there👋, I'm Anshu</h3>
 
-- 🔭 I’m currently working on improving my **DSA & FrontEnd skills.**
+- 🔭 I’m currently working on improving my **DSA & Frontend Development skills.**
 - 🌱 I’m currently learning **React, DSA.**
 - 📫 Reach me: sainanshu40@gmail.com , https://www.linkedin.com/in/anshu-sain-5a942b256/
 <h3 align="left">Connect with me : 
